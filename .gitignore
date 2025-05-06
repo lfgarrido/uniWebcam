@@ -81,3 +81,5 @@ __recovery/
 modules/
 
 *.skincfg
+/Win64/Debug/cache
+/Win64/Debug/log
